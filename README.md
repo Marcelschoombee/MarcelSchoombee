@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 
+
+I'm a qualified graphic designer living in Cape Town. I studied graphic design and I'm currently studying software development at codespace.
 
 <!--
 **Marcelschoombee/MarcelSchoombee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
