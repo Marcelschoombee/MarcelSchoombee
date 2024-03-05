@@ -1,4 +1,6 @@
-<div align-center>![DesignImage](https://github.com/Marcelschoombee/MarcelSchoombee/assets/156411508/cc235dfe-0eeb-4956-bf7f-3a096942dcf8)</div>
+<div align-center>
+  ![DesignImage](https://github.com/Marcelschoombee/MarcelSchoombee/assets/156411508/cc235dfe-0eeb-4956-bf7f-3a096942dcf8)
+</div>
 
 <h2>Hi there, My name is, Marcel Schoombee</h2> 
 
