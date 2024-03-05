@@ -7,8 +7,8 @@
   I'm currently studying software development at codespace.
 
   I'm qualified at:
-  Typhograpy and layout 
-  3D modeling and printing
+  Typhograpy and layout, 
+  3D modeling and printing,
   Fine Arts
 
   Working on:
