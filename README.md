@@ -1,6 +1,6 @@
-
+<div class="bg-color-grey-100">
 ![DesignImage](https://github.com/Marcelschoombee/MarcelSchoombee/assets/156411508/cc235dfe-0eeb-4956-bf7f-3a096942dcf8)
-
+</div>
 <h2>Hi there, My name is, Marcel Schoombee</h2> 
 
 <h3>I'm a qualified graphic designer living in Cape Town. I studied graphic design at Open Window Art Academy and qualified in 2001. I'm currently studying software development at codespace.</h3>
