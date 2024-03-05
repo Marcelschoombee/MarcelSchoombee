@@ -1,8 +1,8 @@
-<h1>Hi there</h1> 
+<h2>Hi there</h2> 
 
-<h1>My name is Marcel Schoombee</h1>
+<h2>My name is Marcel Schoombee</h2>
 
-I'm a qualified graphic designer living in Cape Town. I studied graphic design and I'm currently studying software development at codespace.
+<h3>I'm a qualified graphic designer living in Cape Town. I studied graphic design and I'm currently studying software development at codespace.</h3>
 
 <!--
 **Marcelschoombee/MarcelSchoombee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
