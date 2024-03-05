@@ -15,7 +15,7 @@
   HTML, CSS, Javascript.
 
   My contact email: marcelsch01@yahoo.com
-  Linkedin: 
+  Linkedin: https://www.linkedin.com/in/marcel-schoombee-21418074?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   
   </h3>
 
