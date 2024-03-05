@@ -1,6 +1,6 @@
-Hi there 
+<h1>Hi there</h1> 
 
-My name is Marcel Schoombee
+<h1>My name is Marcel Schoombee</h1>
 
 I'm a qualified graphic designer living in Cape Town. I studied graphic design and I'm currently studying software development at codespace.
 
