@@ -1,3 +1,4 @@
+![Designed to Art](https://github.com/Marcelschoombee/MarcelSchoombee/assets/156411508/d4e8fadd-2493-4c7e-963e-853295f3c60d)
 <h2>Hi there, My name is, Marcel Schoombee</h2> 
 
 <h3>I'm a qualified graphic designer living in Cape Town. I studied graphic design at Open Window Art Academy and qualified in 2001. I'm currently studying software development at codespace.</h3>
