@@ -15,6 +15,7 @@
   HTML, CSS, Javascript.
 
   My contact email: marcelsch01@yahoo.com
+  Linkedin: 
   
   </h3>
 
